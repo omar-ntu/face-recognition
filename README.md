@@ -1,4 +1,4 @@
-# face-recognition
+# Face Recognition
 Part of our university module "Intelligent Systems Design". We explore and study ways to develop facial recognition systems via traditional machine learning methods and also via deep neural networks.
 
 In Assignment 1, we were tasked to build a facial recognition system using traditional machine learning methods. We decided to go with Principal Component Analysis (PCA), and specifically use 2D-Squared PCA to develop our final product.
