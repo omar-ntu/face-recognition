@@ -1,10 +1,16 @@
 # face-recognition
+Part of our university module "Intelligent Systems Design". We explore and study ways to develop facial recognition systems via traditional machine learning methods and also via deep neural networks.
+
+In Assignment 1, we were tasked to build a facial recognition system using traditional machine learning methods. We decided to go with Principal Component Analysis (PCA), and specifically use 2D-Squared PCA to develop our final product.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/754d9aa7-d2bf-439f-a253-b19826c29713" width="500" alt="PCAimage">
-  <p>Screenshot of our team using the PCA process in Assignment 1.</p>
+  <img src="https://github.com/user-attachments/assets/b236aa35-a915-4957-a806-5ae5cc42b4de" width="500" alt="PCAimage">
+  <p>Our team using the 2D-Squared PCA process for facial recognition in Assignment 1.</p>
 </div>
 
-### <u>References</u>
-https://github.com/aakashjhawar/face-recognition-using-deep-learning/blob/master/README.md
-https://github.com/ageitgey/face_recognition/blob/master/README.md
+In Assignment 2, we were tasked to build a facial recognition system using deep neural networks. We went with MTCNN, FaceNet, and Support Vector Machines (SVMs).
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2ab9074d-b337-4d4a-8522-6061e5585dee" width="500" alt="PCAimage">
+  <p>Our team using deep neural networks for facial recognition in Assignment 2.</p>
+</div>
