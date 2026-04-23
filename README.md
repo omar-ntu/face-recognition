@@ -15,5 +15,4 @@ In Assignment 2, we were tasked to build a facial recognition system using deep 
   <p>Our team using deep neural networks for facial recognition in Assignment 2.</p>
 </div>
 
-<hr>
-<i>Please excuse my tired-looking demeanor hahaha, I was exhausted with my thesis at the time and I also had gotten to a car accident the day prior to taking these photos.</i>
+
